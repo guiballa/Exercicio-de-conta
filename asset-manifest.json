@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Html-Css-ReactJS/exercicio-de-conta/static/js/main.c4159a6f.chunk.js",
+    "main.js.map": "/Html-Css-ReactJS/exercicio-de-conta/static/js/main.c4159a6f.chunk.js.map",
+    "runtime-main.js": "/Html-Css-ReactJS/exercicio-de-conta/static/js/runtime-main.10e9d083.js",
+    "runtime-main.js.map": "/Html-Css-ReactJS/exercicio-de-conta/static/js/runtime-main.10e9d083.js.map",
+    "static/css/2.c74435ab.chunk.css": "/Html-Css-ReactJS/exercicio-de-conta/static/css/2.c74435ab.chunk.css",
+    "static/js/2.9002cd44.chunk.js": "/Html-Css-ReactJS/exercicio-de-conta/static/js/2.9002cd44.chunk.js",
+    "static/js/2.9002cd44.chunk.js.map": "/Html-Css-ReactJS/exercicio-de-conta/static/js/2.9002cd44.chunk.js.map",
+    "static/js/3.d4934552.chunk.js": "/Html-Css-ReactJS/exercicio-de-conta/static/js/3.d4934552.chunk.js",
+    "static/js/3.d4934552.chunk.js.map": "/Html-Css-ReactJS/exercicio-de-conta/static/js/3.d4934552.chunk.js.map",
+    "index.html": "/Html-Css-ReactJS/exercicio-de-conta/index.html",
+    "static/css/2.c74435ab.chunk.css.map": "/Html-Css-ReactJS/exercicio-de-conta/static/css/2.c74435ab.chunk.css.map",
+    "static/js/2.9002cd44.chunk.js.LICENSE.txt": "/Html-Css-ReactJS/exercicio-de-conta/static/js/2.9002cd44.chunk.js.LICENSE.txt",
+    "static/js/3.d4934552.chunk.js.LICENSE.txt": "/Html-Css-ReactJS/exercicio-de-conta/static/js/3.d4934552.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/Html-Css-ReactJS/exercicio-de-conta/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e9d083.js",
+    "static/css/2.c74435ab.chunk.css",
+    "static/js/2.9002cd44.chunk.js",
+    "static/js/main.c4159a6f.chunk.js"
+  ]
+}
